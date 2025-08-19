@@ -1,0 +1,15 @@
+sample_name,condition,replicate,gsm,sample_path,tarball,section
+Sample_3792-FM-S2-A,5XFAD,replicate1,GSM6380080,../data/5XFAD/replicate1/Sample_3792-FM-S2-A,../data/5XFAD/replicate1/GSM6380080_Sample_3792-FM-S2-A.tar.gz,section1
+Sample_3792-FM-S2-B,5XFAD,replicate1,GSM6380081,../data/5XFAD/replicate1/Sample_3792-FM-S2-B,../data/5XFAD/replicate1/GSM6380081_Sample_3792-FM-S2-B.tar.gz,section2
+Sample_3792-FM-S5-A,5XFAD,replicate2,GSM6380092,../data/5XFAD/replicate2/Sample_3792-FM-S5-A,../data/5XFAD/replicate2/GSM6380092_Sample_3792-FM-S5-A.tar.gz,section1
+Sample_3792-FM-S5-B,5XFAD,replicate2,GSM6380093,../data/5XFAD/replicate2/Sample_3792-FM-S5-B,../data/5XFAD/replicate2/GSM6380093_Sample_3792-FM-S5-B.tar.gz,section3
+Sample_3792-FM-S3-A,Vehicle,replicate1,GSM6380084,../data/Vehicle/replicate1/Sample_3792-FM-S3-A,../data/Vehicle/replicate1/GSM6380084_Sample_3792-FM-S3-A.tar.gz,section1
+Sample_3792-FM-S3-B,Vehicle,replicate1,GSM6380085,../data/Vehicle/replicate1/Sample_3792-FM-S3-B,../data/Vehicle/replicate1/GSM6380085_Sample_3792-FM-S3-B.tar.gz,section2
+Sample_3792-FM-S2-C,WT,replicate1,GSM6380082,../data/WT/replicate1/Sample_3792-FM-S2-C,../data/WT/replicate1/GSM6380082_Sample_3792-FM-S2-C.tar.gz,section1
+Sample_3792-FM-S2-D,WT,replicate1,GSM6380083,../data/WT/replicate1/Sample_3792-FM-S2-D,../data/WT/replicate1/GSM6380083_Sample_3792-FM-S2-D.tar.gz,section2
+Sample_3792-FM-S3-C,hNSC,replicate1,GSM6380086,../data/hNSC/replicate1/Sample_3792-FM-S3-C,../data/hNSC/replicate1/GSM6380086_Sample_3792-FM-S3-C.tar.gz,section1
+Sample_3792-FM-S3-D,hNSC,replicate1,GSM6380087,../data/hNSC/replicate1/Sample_3792-FM-S3-D,../data/hNSC/replicate1/GSM6380087_Sample_3792-FM-S3-D.tar.gz,section2
+Sample_3792-FM-S4-A,hNSC,replicate2,GSM6380088,../data/hNSC/replicate2/Sample_3792-FM-S4-A,../data/hNSC/replicate2/GSM6380088_Sample_3792-FM-S4-A.tar.gz,section1
+Sample_3792-FM-S4-B,hNSC,replicate2,GSM6380089,../data/hNSC/replicate2/Sample_3792-FM-S4-B,../data/hNSC/replicate2/GSM6380089_Sample_3792-FM-S4-B.tar.gz,section2
+Sample_3792-FM-S4-C,hNSC,replicate3,GSM6380090,../data/hNSC/replicate3/Sample_3792-FM-S4-C,../data/hNSC/replicate3/GSM6380090_Sample_3792-FM-S4-C.tar.gz,section1
+Sample_3792-FM-S4-D,hNSC,replicate3,GSM6380091,../data/hNSC/replicate3/Sample_3792-FM-S4-D,../data/hNSC/replicate3/GSM6380091_Sample_3792-FM-S4-D.tar.gz,section2
