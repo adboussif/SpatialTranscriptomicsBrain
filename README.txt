@@ -1,6 +1,6 @@
-# **Spatial Transcriptomics Brain Analysis (Scanpy Mini-Project)**
+# Spatial Transcriptomics Brain Analysis (Scanpy Mini-Project)
 
-## 🔧 Compétences techniques mobilisées
+## Compétences techniques mobilisées
 
 | Domaine | Outils & Méthodes |
 |--------|-------------------|
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Contexte
+## Contexte
 
 Ce mini-projet constitue une vitrine de compétences en **analyse de données de transcriptomique spatiale** appliquée au cerveau, en utilisant **Scanpy** dans un environnement Python.  
 Les données proviennent de l’étude de *Yu et al., 2023* (bioRxiv, doi:10.1101/2023.11.01.565161), portant sur les effets de la **greffe de cellules souches neurales humaines (hNSC)** dans un modèle murin **5XFAD** de la maladie d’Alzheimer.  
@@ -23,7 +23,7 @@ Ici, le but est de reproduire un **workflow complet et structuré**, depuis l’
 
 ---
 
-## 📁 Structure du dépôt
+## Structure du dépôt
 
 - `st_5xfad_scanpy_miniproject.ipynb` → Notebook d’analyse (commenté et reproductible)
 - `data/` → Données d’entrée (AnnData / matrices brutes)
@@ -31,7 +31,7 @@ Ici, le but est de reproduire un **workflow complet et structuré**, depuis l’
 
 ---
 
-## 🚀 Pipeline d’analyse
+## Pipeline d’analyse
 
 1. **Chargement des données spatiales** (*AnnData .h5ad* ou `filtered_feature_bc_matrix`)
 2. **Filtrage par zone anatomique / “capture_area”**
@@ -44,16 +44,16 @@ Ici, le but est de reproduire un **workflow complet et structuré**, depuis l’
 
 ---
 
-## 📊 Résultats principaux
+## Résultats
 
 - Séparation nette des **zones corticales vs subcorticales** sur les projections UMAP.
-- Mise en évidence d’un patron d’expression génique **pro-inflammatoire** chez *5XFAD*.
+- Mise en évidence d’un patron d’expression génique.
 - Cartographie spatiale fine de gènes comme *GFAP*, *MBP*, *TREM2*, révélant des signatures typiques de la **microglie réactive**.
 - Identification de clusters distincts reflétant des populations **neurales et gliales** différentes selon les contextes (*WT*, pathologie, traitement cellulaire).
 
 ---
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 Ce dépôt vise à illustrer ma capacité à :
 
